@@ -1,20 +1,19 @@
 ## 👋 Hi, I'm Rinkan Hazra
 
-I'm a **Full-Stack Developer** with 3+ years of experience in the **MEAN stack**, building scalable SaaS and e-commerce platforms.
+I'm a **Backend Developer** with 4+ years of experience, specializing in building scalable SaaS and e-commerce platforms with a strong focus on **AWS cloud infrastructure**.
 
 ### 💻 Tech Stack
-- **Frontend:** Angular, React, Next.js
-- **Backend:** Node.js, Express.js, REST, GraphQL
-- **Database:** MongoDB, PostgreSQL
-- **Cloud/DevOps:** AWS (EC2, S3, CloudFront), Docker, GitHub Actions
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Cloud:** AWS (EC2, S3, CloudFront, Lambda, RDS)
+- **Tools:** Docker, GitHub Actions, Redis, BullMQ
 
 ### 🚀 What I Do
-- 🔧 Build SaaS tools like SEMrush clones
-- 🛒 Architect multi-vendor e-commerce systems
-- 📦 Automate workflows using Redis, BullMQ, Kafka
-- 🎯 Integrate payments (Razorpay, Stripe)
+- 🛠 Design and develop robust backend systems
+- ☁️ Build and deploy applications on AWS
+- 📦 Automate background jobs and workflows
+- 🎯 Integrate secure payment systems (Razorpay, Stripe)
 
 ### 📫 Contact
-- Email: rinkanhazra@gmail.com
-- LinkedIn: [linkedin.com/in/rinkanhazra](https://linkedin.com/in/rinkanhazra)
-
+- 📧 Email: rinkanhazra@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/rinkanhazra](https://linkedin.com/in/rinkanhazra)
