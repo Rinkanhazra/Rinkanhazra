@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Rinkan Hazra
 
-<!--
-**Rinkanhazra/Rinkanhazra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** with 3+ years of experience in the **MEAN stack**, building scalable SaaS and e-commerce platforms.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- **Frontend:** Angular, React, Next.js
+- **Backend:** Node.js, Express.js, REST, GraphQL
+- **Database:** MongoDB, PostgreSQL
+- **Cloud/DevOps:** AWS (EC2, S3, CloudFront), Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- 🔧 Build SaaS tools like SEMrush clones
+- 🛒 Architect multi-vendor e-commerce systems
+- 📦 Automate workflows using Redis, BullMQ, Kafka
+- 🎯 Integrate payments (Razorpay, Stripe)
+
+### 📫 Contact
+- Email: rinkanhazra@gmail.com
+- LinkedIn: [linkedin.com/in/rinkanhazra](https://linkedin.com/in/rinkanhazra)
+
