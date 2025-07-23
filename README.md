@@ -8,7 +8,7 @@ I'm a **Backend Developer** with 4+ years of experience, specializing in buildin
 
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Cloud:** AWS (**EC2**, **S3**, **CloudFront**, **Lambda**, **RDS**)  
+- **Cloud:** AWS (**EC2**, **S3**, **CloudFront**, **RDS**)  
 - **Tools:** Docker, GitHub Actions, Redis, BullMQ  
 
 ---
