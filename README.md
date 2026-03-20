@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rinkan Hazra
 
-I'm a **Backend Developer** with 4+ years of experience, specializing in building scalable **SaaS** and **e-commerce platforms**. I enjoy solving complex problems and building reliable backend systems, with a strong focus on **AWS cloud infrastructure**.
+I'm a **Backend Developer** with 5+ years of experience, specializing in building scalable **SaaS** and **e-commerce platforms**. I enjoy solving complex problems and building reliable backend systems, with a strong focus on **AWS cloud infrastructure**.
 
 ---
 
